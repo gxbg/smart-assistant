@@ -1,0 +1,161 @@
+[
+  {
+    "id": 1,
+    "mensagem": "Meu headset HyperX Cloud parou de funcionar depois de 3 dias!",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": [
+      "headset",
+      "problema",
+      "defeito"
+    ]
+  },
+  {
+    "id": 2,
+    "mensagem": "O mouse Razer que comprei veio com o scroll quebrado.",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": [
+      "mouse",
+      "quebrado",
+      "defeito"
+    ]
+  },
+  {
+    "id": 3,
+    "mensagem": "Meu teclado mecanico nao esta acendendo o RGB.",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "media",
+    "palavras_chave": [
+      "teclado",
+      "rgb",
+      "problema"
+    ]
+  },
+  {
+    "id": 4,
+    "mensagem": "Qual e o prazo de garantia do mouse Razer DeathAdder?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": [
+      "garantia",
+      "prazo"
+    ]
+  },
+  {
+    "id": 5,
+    "mensagem": "Como faco para devolver um produto com defeito?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "media",
+    "palavras_chave": [
+      "devolver",
+      "devolucao"
+    ]
+  },
+  {
+    "id": 6,
+    "mensagem": "Voces aceitam troca de headset sem nota fiscal?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": [
+      "troca",
+      "nota fiscal"
+    ]
+  },
+  {
+    "id": 7,
+    "mensagem": "Qual a diferenca entre o HyperX Cloud 2 e o Cloud 3?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": [
+      "diferenca",
+      "comparacao"
+    ]
+  },
+  {
+    "id": 8,
+    "mensagem": "Quero parabenizar o atendimento, fui muito bem atendido!",
+    "tipo_esperado": "elogio",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": [
+      "parabens",
+      "atendimento",
+      "satisfeito"
+    ]
+  },
+  {
+    "id": 9,
+    "mensagem": "O headset chegou rapido e em perfeito estado, adorei!",
+    "tipo_esperado": "elogio",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": [
+      "adorei",
+      "perfeito",
+      "rapido"
+    ]
+  },
+  {
+    "id": 10,
+    "mensagem": "Produto excelente, superou minhas expectativas!",
+    "tipo_esperado": "elogio",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": [
+      "excelente",
+      "expectativas"
+    ]
+  },
+  {
+    "id": 11,
+    "mensagem": "Seria otimo se voces tivessem mais opcoes de mouse sem fio.",
+    "tipo_esperado": "sugestao",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": [
+      "sugestao",
+      "sem fio",
+      "opcoes"
+    ]
+  },
+  {
+    "id": 12,
+    "mensagem": "Poderiam adicionar mais cores de teclado no site?",
+    "tipo_esperado": "sugestao",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": [
+      "adicionar",
+      "cores",
+      "sugestao"
+    ]
+  },
+  {
+    "id": 13,
+    "mensagem": "Meu pedido chegou com a caixa amassada e o produto danificado!",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": [
+      "danificado",
+      "amassado",
+      "problema"
+    ]
+  },
+  {
+    "id": 14,
+    "mensagem": "Faz quanto tempo que o headset Cloud Alpha esta em falta?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": [
+      "falta",
+      "estoque"
+    ]
+  },
+  {
+    "id": 15,
+    "mensagem": "Quero sugerir que voces criem um programa de fidelidade para clientes.",
+    "tipo_esperado": "sugestao",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": [
+      "programa",
+      "fidelidade",
+      "sugestao"
+    ]
+  }
+]

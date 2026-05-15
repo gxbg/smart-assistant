@@ -1,0 +1,6 @@
+requests
+pydantic
+tiktoken
+pandas
+matplotlib
+python-dotenv
