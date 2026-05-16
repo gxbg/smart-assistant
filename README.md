@@ -3,10 +3,7 @@
 Assistente inteligente de atendimento ao cliente para e-commerce gamer.
 Desenvolvido como projeto acadêmico para o Checkpoint 03 da FIAP.
 
-## 👥 Grupo
-- Nome do integrante 1 — RM XXXXX
-- Nome do integrante 2 — RM XXXXX
-- Nome do integrante 3 — RM XXXXX
+## 👥 Grupo 1
 
 ## 🤖 Sobre o Assistente
 
